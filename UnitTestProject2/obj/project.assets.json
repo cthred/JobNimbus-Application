@@ -5682,11 +5682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cameron.thredgold\\source\\repos\\ConsoleApp2\\UnitTestProject2\\UnitTestProject2.csproj",
+      "projectUniqueName": "C:\\work\\JobNimbus-Application\\UnitTestProject2\\UnitTestProject2.csproj",
       "projectName": "UnitTestProject2",
-      "projectPath": "C:\\Users\\cameron.thredgold\\source\\repos\\ConsoleApp2\\UnitTestProject2\\UnitTestProject2.csproj",
+      "projectPath": "C:\\work\\JobNimbus-Application\\UnitTestProject2\\UnitTestProject2.csproj",
       "packagesPath": "C:\\Users\\cameron.thredgold\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cameron.thredgold\\source\\repos\\ConsoleApp2\\UnitTestProject2\\obj\\",
+      "outputPath": "C:\\work\\JobNimbus-Application\\UnitTestProject2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5705,8 +5705,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\cameron.thredgold\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
-              "projectPath": "C:\\Users\\cameron.thredgold\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj"
+            "C:\\work\\JobNimbus-Application\\ConsoleApp2\\ConsoleApp2.csproj": {
+              "projectPath": "C:\\work\\JobNimbus-Application\\ConsoleApp2\\ConsoleApp2.csproj"
             }
           }
         }
